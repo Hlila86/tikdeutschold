@@ -1,4 +1,4 @@
-import logo from '../assests/logo.webp'
+import logo from '../assests/logo.png'
 
 const images ={
     logo,
